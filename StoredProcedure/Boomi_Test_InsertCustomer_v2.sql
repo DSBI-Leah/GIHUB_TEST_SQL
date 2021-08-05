@@ -1,7 +1,7 @@
 USE [OptoWarehouse]
 GO
 
-/****** Object:  StoredProcedure [dbo].[Boomi_Test_InsertCustomer_v2]    Script Date: 8/5/2021 2:53:02 PM ******/
+/****** Object:  StoredProcedure [dbo].[Boomi_Test_InsertCustomer_v2]    Script Date: 8/5/2021 3:16:08 PM ******/
 SET ANSI_NULLS ON
 GO
 
